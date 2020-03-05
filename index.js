@@ -105,7 +105,7 @@ To perform a test, run the following command:
 <img src="https://avatars2.githubusercontent.com/u/57970306?s=460&v=4"
 alt="avatar" style="border-radius: 16px" width="30" />
 
-If you have any questions about the repo, open an issue or contact at ${response.username}`
+If you have any questions about the repo, contact me at github.com/${response.username} or jmorales113@gmail.com.`
 
         fs.writeFile("ReadMe.md", data, function(){
             console.log("Wrote to ReadMe.md")

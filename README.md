@@ -1,11 +1,11 @@
 
-# fkdkfd
+# Homework9-Good-ReadMe-Generator
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## Description
 
-fjkdfjd
+To generate a good ReadMe file using Node with dependencies "inquirer" and "axios"
 
 ## Table of Contents
 
@@ -25,29 +25,29 @@ fjkdfjd
 
 To install necessary dependencies, run the following command:
 
-    fjkdfjkd
+    npm install
 
 ## Usage
 
-fjdkfjkd
+It needs have an image and be in markdown
 
 ## License
 
-fjkdfjkd
+MIT
 
 ## Contributing
 
-fjkdfjkd
+They should be able to run it on the command line
 
 ## Tests
 
 To perform a test, run the following command:
 
-    fjkdfjdk
+    npm test
 
 ## Questions
 
 <img src="https://avatars2.githubusercontent.com/u/57970306?s=460&v=4"
 alt="avatar" style="border-radius: 16px" width="30" />
 
-If you have any questions about the repo, open an issue or contact at dkkd
+If you have any questions about the repo, contact me at github.com/jmorales113 or jmorales113@gmail.com.
