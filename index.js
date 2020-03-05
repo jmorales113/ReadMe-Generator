@@ -14,48 +14,52 @@ inquirer.prompt([
     {
         type: "input",
         message: "What is your project's name?",
-        name: "title"
+        name: "Title"
     },
     {
         type: "input",
         message: "Please write a short description of your project",
-        name: "description"
+        name: "Description"
     },
     {
         type: "input",
         message: "What kind of license should your project have?",
-        name: "license"
+        name: "License"
 
     },
     {
         type: "input",
         message: "What command should be run to install dependencies?",
-        name: "installation"
+        name: "Installation"
 
     },
     {
         type: "input",
         message: "What command should be run to run tests? npm test",
-        name: "tests"
+        name: "Tests"
     },
     {
         type: "input",
         message: "What does the user need to know about using the repo?",
-        name: "usage"
+        name: "Usage"
     },
     {
         type: "input",
         message: "What does the user need to know about contributing to the repo?",
-        name: "contributing"
+        name: "Contributing"
     }
 
 ])
 
-function writeToFile(fileName, data) {
-}
-
-function init() {
+.then (function(response) {
 
 }
 
-init();
+// function writeToFile(fileName, data) {
+// }
+
+// function init() {
+
+// }
+
+// init();
