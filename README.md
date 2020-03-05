@@ -1,11 +1,11 @@
 
-# Homework9-Good-ReadMe-Generator
+# Homework9-GoodReadMe-Generator
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## Description
 
-To generate a good ReadMe file using Node with dependencies "inquirer" and "axios"
+To generate a good ReadMe file using Node and dependencies "inquirer" and "axios"
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ To install necessary dependencies, run the following command:
 
 ## Usage
 
-It needs have an image and be in markdown
+It needs to have an image and be in markdown
 
 ## License
 
